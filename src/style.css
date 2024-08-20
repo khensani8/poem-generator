@@ -62,6 +62,10 @@ h1 {
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.03);
 }
 
+.poem strong {
+  color: #fe6d73;
+}
+
 footer {
   text-align: center;
   font-size: 13px;
